@@ -1,0 +1,12 @@
+
+ body {
+  background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+            }
+#abc{ border: thin red solid;
+      background-color: #3380CB;
+      width: 400px;
+      height: 200px;
+      border-radius: 24px 24px 24px 24px;
+      text-align: center;
+}
